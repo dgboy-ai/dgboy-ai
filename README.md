@@ -1,50 +1,33 @@
-# Hi, I'm Divyansh Gupta 👋
+# Divyansh Gupta
 
-**AI Developer · Backend & System Design · Hackathon Winner 🏆**
+AI and backend developer from Indore, India. I'm a B.Tech CSE (AI & ML) student at ITM University, Gwalior.
 
-I build real-world AI applications by combining backend engineering with RAG and LLMs. B.Tech CSE (AI & ML) student at ITM University, Gwalior, based in Indore, India.
+I work mostly in Python and FastAPI, building the parts of AI products that sit around the model: the APIs, the data, the deployment, and the user it's meant for. I'm looking for internships and entry-level roles in AI or backend engineering.
 
-🟢 **Open to AI / backend internships and entry-level roles.**
+## Projects
 
----
+**[SwasthAI Guardian](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)**
+An offline-first healthcare platform for rural communities. We based the design on NFHS data and surveys with real users, and led the team to 1st place at IEEE YESIST12 (ITM University level) and the Evorozen Innovators Hackathon. Built with FastAPI, React, Aurora PostgreSQL and DynamoDB.
 
-## 🚀 Featured Projects
+**[CortexAI](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)**
+A document Q&A system using retrieval-augmented generation. Upload a document and ask questions about it. Python, FastAPI.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**SwasthAI Guardian**](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | AI-powered, offline-first healthcare platform for rural communities. Backed by NFHS data analysis and user surveys. 🥇 1st at IEEE YESIST12 and Evorozen Hackathon | FastAPI, React, Aurora PostgreSQL, DynamoDB |
-| [**CortexAI**](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | RAG-based document Q&A: upload documents and chat with them in natural language | Python, FastAPI, RAG, LLMs |
-| [**PlaceBuddy AI**](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | Placement readiness predictor with resume skill-gap analysis, GitHub evaluation and a 6-month roadmap. Built in 24 hours, 🥈 2nd at TechRhythm 2.0 | FastAPI, React, MLP, SQLite |
-| [**Orbit Sentinel**](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | Analyzes GitLab merge requests to show blast radius, deployment risk and remediation guidance before merge | TypeScript, React, Node.js |
+**[PlaceBuddy AI](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)**
+Predicts a student's placement readiness, checks resumes for skill gaps and generates a 6-month improvement plan. Built end to end in 24 hours; 2nd place at TechRhythm 2.0. FastAPI, React, SQLite.
 
----
+**[Orbit Sentinel](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)**
+Looks at a GitLab merge request and shows which services and files it could affect before it is merged. TypeScript, React, Node.js.
 
-## 🛠️ Tech Stack
+## Skills
 
-**Languages:** Python · TypeScript · SQL · C
+Python, FastAPI, SQL, TypeScript, React, Node.js, NumPy, Pandas, LangChain, LlamaIndex, Docker, AWS
 
-**Backend:** FastAPI · Node.js · REST APIs
+## Recognition
 
-**AI / ML:** RAG · LLMs · LangChain · LlamaIndex · NumPy · Pandas
+- IEEE YESIST12 2026 Grand Finalist, selected from 2000+ submissions
+- Top 9 Finalist, NextGenHacks 2026
+- Silver Medal, 2nd in AIML batch (B.Tech, 1st year)
 
-**Frontend:** React
+## Contact
 
-**Cloud & DevOps:** AWS · Docker · Vercel
-
----
-
-## 🏆 Highlights
-
-- 🥇 1st Place: Evorozen Innovators Hackathon 2026
-- 🥇 1st Place: IEEE YESIST12 (ITM University level, team leader)
-- 🌍 IEEE YESIST12 2026 Grand Finalist, shortlisted from 2000+ submissions
-- 🥈 2nd Place: TechRhythm 2.0 Hackathon
-- 🏅 Top 9 Finalist: NextGenHacks Hackathon 2026
-- 🎓 Silver Medal: 2nd in AIML batch, B.Tech 1st Year
-
----
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-professional-profile)
-[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[LinkedIn](https://www.linkedin.com/in/divyansh-professional-profile) · [Email](mailto:YOUR_EMAIL@example.com)
