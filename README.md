@@ -1,17 +1,21 @@
 # Hi, I'm Divyansh Gupta 👋
 
-**AI Developer | Backend & System Design | 3x Hackathon Winner 🏆**
+**AI Developer · Backend & System Design · Hackathon Winner 🏆**
 
-I build real-world intelligent systems by combining backend engineering with applied AI. B.Tech CSE (AI & ML) student at ITM University, Gwalior, based in Indore, India.
+I build real-world AI applications by combining backend engineering with RAG and LLMs. B.Tech CSE (AI & ML) student at ITM University, Gwalior, based in Indore, India.
+
+🟢 **Open to AI / backend internships and entry-level roles.**
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Featured Projects
 
-- 🏥 **SwasthAI Guardian**: an AI-powered, offline-first rural healthcare platform
-- 🧠 Building production-level AI applications
-- ⚙️ Strengthening backend engineering and system design
-- 🌐 Expanding towards full-stack development
+| Project | What it does | Stack |
+|---|---|---|
+| [**SwasthAI Guardian**](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | AI-powered, offline-first healthcare platform for rural communities. Backed by NFHS data analysis and user surveys. 🥇 1st at IEEE YESIST12 and Evorozen Hackathon | FastAPI, React, Aurora PostgreSQL, DynamoDB |
+| [**CortexAI**](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | RAG-based document Q&A: upload documents and chat with them in natural language | Python, FastAPI, RAG, LLMs |
+| [**PlaceBuddy AI**](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | Placement readiness predictor with resume skill-gap analysis, GitHub evaluation and a 6-month roadmap. Built in 24 hours, 🥈 2nd at TechRhythm 2.0 | FastAPI, React, MLP, SQLite |
+| [**Orbit Sentinel**](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | Analyzes GitLab merge requests to show blast radius, deployment risk and remediation guidance before merge | TypeScript, React, Node.js |
 
 ---
 
@@ -21,48 +25,26 @@ I build real-world intelligent systems by combining backend engineering with app
 
 **Backend:** FastAPI · Node.js · REST APIs
 
-**AI / ML:** RAG · LLMs · LangChain · LlamaIndex · NumPy · Pandas · Deep Learning (MLP)
+**AI / ML:** RAG · LLMs · LangChain · LlamaIndex · NumPy · Pandas
 
 **Frontend:** React
-
-**Databases:** PostgreSQL (Amazon Aurora) · DynamoDB · SQLite
 
 **Cloud & DevOps:** AWS · Docker · Vercel
 
 ---
 
-## 📂 Featured Projects
+## 🏆 Highlights
 
-| Project | Description | Stack |
-|---|---|---|
-| **SwasthAI Guardian** | AI healthcare platform for rural and underserved communities, built offline-first | FastAPI, React, Aurora PostgreSQL, DynamoDB, Vercel |
-| **CortexAI** | RAG-based document Q&A system. Upload documents and chat with them in natural language | Python, FastAPI, RAG, LLMs |
-| **PlaceBuddy AI** | Placement intelligence system with prediction, resume analysis, GitHub evaluation and a 6-month roadmap | FastAPI, React, MLP, SQLite |
-| **Orbit Sentinel** | Engineering digital twin for GitLab merge requests that maps blast radius and risk before merging | TypeScript, React, Node.js |
-
----
-
-## 🏆 Achievements
-
-- 🥇 1st Place: Evorozen Innovators Hackathon 2026 (SwasthAI Guardian)
-- 🥇 1st Place: IEEE YESIST12, ITM University level (Special Track)
-- 🌍 Grand Finale selection: IEEE YESIST12 2026, shortlisted from 2000+ submissions
-- 🥈 2nd Place: TechRhythm 2.0 Hackathon (PlaceBuddy AI)
+- 🥇 1st Place: Evorozen Innovators Hackathon 2026
+- 🥇 1st Place: IEEE YESIST12 (ITM University level, team leader)
+- 🌍 IEEE YESIST12 2026 Grand Finalist, shortlisted from 2000+ submissions
+- 🥈 2nd Place: TechRhythm 2.0 Hackathon
 - 🏅 Top 9 Finalist: NextGenHacks Hackathon 2026
-- 🎓 Silver Medal: 2nd position in AIML batch, B.Tech 1st Year
+- 🎓 Silver Medal: 2nd in AIML batch, B.Tech 1st Year
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Contact
 
-![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyansh_Gupta-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-professional-profile)
-
-> 💡 *Goal: to become an AI engineer who builds complete, real-world intelligent systems that solve meaningful problems.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-professional-profile)
+[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
