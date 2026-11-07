@@ -1,43 +1,48 @@
 # Hi, I'm Divyansh 👋
 
-I'm an AI and backend developer from Indore, studying B.Tech CSE (AI & ML) at ITM University, Gwalior.
+I'm an AI and backend developer from Gwalior, pursuing B.Tech in CSE (AI & ML) at ITM University.
 
-I enjoy building AI-powered products from end to end: the backend, the data, and the experience people actually use. Along the way I've developed a number of open-source projects, and you're welcome to explore them in my repositories.
+I build reliable backends and applied AI systems, focusing on clean architecture, low latency, and real-world usability. 
 
-I'm currently looking for internships and entry-level opportunities in AI and backend engineering.
-
----
-
-## Best Project: SwasthAI Guardian
-
-SwasthAI Guardian is my early-stage startup. It's an AI-powered, offline-first healthcare platform for rural and underserved communities, based on the idea that healthcare should keep working even when the internet doesn't.
-
-I led the team that shaped it using NFHS health data and conversations with real users, and it has been recognised along the way:
-
-- 1st Place at IEEE YESIST12 (ITM University level)
-- 1st Place at the Evorozen Innovators Hackathon 2026
-- Grand Finalist at IEEE YESIST12 2026
-
-**Built with:** FastAPI, React, Amazon Aurora PostgreSQL, DynamoDB, Vercel
-
-[View the project](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
+I'm actively looking for internships and entry-level roles in backend engineering and AI engineering.
 
 ---
 
-## More Projects
+## Featured Project: SwasthAI Guardian
 
-I've also built other production-level and open-source projects. You can find them in the pinned repositories below. 👇
+SwasthAI Guardian is an early-stage healthcare startup I founded. It is an AI-driven, offline-first health platform designed for rural and underserved areas, ensuring critical clinic workflows keep running even when internet connectivity drops.
+
+I led product development and data modeling using NFHS datasets, working directly on user pain points.
+
+### Recognition
+* 1st Place at IEEE YESIST12 (ITM University level)
+* 1st Place at Evorozen Innovators Hackathon 2026
+* Grand Finalist at IEEE YESIST12 2026
+
+**Built with:** FastAPI, React, Amazon Aurora PostgreSQL, DynamoDB, Docker, AWS
+
+[View SwasthAI Guardian](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
 
 ---
 
-## What I Work With
+## Other Projects
 
-Python, FastAPI, SQL, TypeScript, React, Node.js, RAG and LLMs, LangChain, LlamaIndex, Docker, AWS
+I also build production-focused tools and infrastructure, including **HeroRAG: Hybrid Enterprise Retrieval & Orchestration Engine**, a high-performance RAG pipeline with hybrid search and reranking.
+
+Explore HeroRAG and my other projects in the pinned repositories below. 👇
+
+---
+
+## Core Skills
+
+* **Languages & Core:** Python, SQL, TypeScript
+* **Backend & APIs:** FastAPI, Node.js, REST APIs, Pydantic, Async programming
+* **AI & Retrieval:** RAG pipelines, Qdrant, BM25, Cohere Reranking, Vector Search, LLM APIs
+* **Databases & Cloud:** PostgreSQL, DynamoDB, Redis, AWS, Docker, Git
 
 ---
 
 ## Get in Touch
 
-I'd love to connect, whether it's about a role, a project, or just AI.
-
-[LinkedIn](https://www.linkedin.com/in/divyansh-professional-profile) · [Email](mailto:YOUR_EMAIL@example.com)
+* **LinkedIn:** [linkedin.com/in/divyansh-profile](https://www.linkedin.com/in/divyansh-professional-profile)
+* **Email:** [your-email@example.com](mailto:YOUR_EMAIL@example.com)
